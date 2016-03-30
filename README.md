@@ -3,5 +3,5 @@
 
 Example features:
  - Tag-based play queue;
- - Use of binary logic in the filter algorithm;
+ - Use of binary logic in "advanced filter options";
  - Choose songs based on energy, danceability, etc;
